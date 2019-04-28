@@ -1,17 +1,17 @@
 Flutter 学习
 
 ### 常用资源库
-  #### 网络请求
+#### 网络请求
 - [Dio](https://github.com/flutterchina/dio/blob/master/README-ZH.md) 
-  #### 状态管理
+#### 状态管理
 - [flutter_bloc](https://felangel.github.io/bloc/#/) 
 - [scoped_model](https://github.com/brianegan/scoped_model)
-  #### 屏幕适配
+#### 屏幕适配
 - [flutter_screenutil](https://github.com/OpenFlutter/flutter_screenutil/blob/master/README_CN.md)
-  #### Json解析
+#### Json解析
 - [json_serializable](https://github.com/dart-lang/json_serializable)
 - [json2Dart](https://caijinglong.github.io/json2dart/index_ch.html)
-  #### 数据存储
+#### 数据存储
 - [sqflite](https://github.com/tekartik/sqflite/blob/master/sqflite/README.md)
 - [shared_preferences](https://github.com/flutter/plugins/tree/master/packages/shared_preferences)
 
