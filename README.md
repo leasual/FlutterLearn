@@ -14,6 +14,9 @@ Flutter 学习
 #### 数据存储
 - [sqflite](https://github.com/tekartik/sqflite/blob/master/sqflite/README.md)
 - [shared_preferences](https://github.com/flutter/plugins/tree/master/packages/shared_preferences)
+#### 富文本控件
+- [RealRichText](https://github.com/bytedance/RealRichText)
+
 
 ### 相关博客
 - [Flutter 中文文档](https://book.flutterchina.club/chapter3/buttons.html)

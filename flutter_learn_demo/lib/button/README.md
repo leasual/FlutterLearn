@@ -2,6 +2,34 @@ Button 学习
 
 先来看看MaterialButton中常用的属性
 
+        const MaterialButton({
+            Key key,
+            @required this.onPressed,
+            this.onHighlightChanged,
+            this.textTheme,
+            this.textColor,
+            this.disabledTextColor,
+            this.color,
+            this.disabledColor,
+            this.highlightColor,
+            this.splashColor,
+            this.colorBrightness,
+            this.elevation,
+            this.highlightElevation,
+            this.disabledElevation,
+            this.padding,
+            this.shape,
+            this.clipBehavior = Clip.none,
+            this.materialTapTargetSize,
+            this.animationDuration,
+            this.minWidth,
+            this.height,
+            this.child,
+      }) : super(key: key);
+
+
+属性说明
+
 属性 | 类型 | 描述 |
 --- | --- | --- |
 onPressed | VoidCallback | 点击事件，禁用点击事件传入null,显示禁用相关的样式，否则为必须传值

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_learn_demo/app_navigator.dart';
 import 'package:flutter_learn_demo/button/button_tab.dart';
+import 'package:flutter_learn_demo/text/text_tab.dart';
 
 
 class ItemModel {
@@ -36,7 +37,7 @@ class HomePage extends StatelessWidget {
               subtitle: Text('文本的使用方式'),
               trailing: Icon(Icons.chevron_right),
               onTap: () {
-
+                AppNavigator.push(context, TextTabController());
               },
             ),
             ListTile(
